@@ -38,5 +38,4 @@ def welcome():
     text = status.lower()
 
     return render_template('index.html', bmi=bmi, height=h, weight=w, status=status, text=text)
-
-app.run()
+    
