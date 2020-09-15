@@ -4,4 +4,4 @@
 
 # License
   
-  ``BMI Calculator`` is distributed under the [MIT License](https:/)) 
+  ``BMI Calculator`` is distributed under the [MIT License](https://choosealicense.com/licenses/mit) 
