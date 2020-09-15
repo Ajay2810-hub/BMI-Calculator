@@ -1,0 +1,86 @@
+*{
+    text-decoration: none;
+}
+html, body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    overflow-x: hidden;
+    overflow-y: scroll;
+    width: 100%;
+    height: 100%;
+}
+a{
+    color: #2c3e50;
+}
+a:focus, a:hover{
+    text-decoration: none;
+    color: #2c3e50;
+}
+.container h1{
+    text-align: center;
+    margin-top: 20px;
+}
+.container hr{
+    margin-bottom: 30px;
+}
+form label{
+    font-size: x-large;
+}
+form input{
+    margin-bottom: 10px;
+    font-size: x-large;
+}
+.btn{
+    margin-top: 40px;
+    font-size: x-large;
+}
+.center{
+    text-align: center;
+    width: 100%;
+    margin-top: 10px;
+    font-size: large !important;
+}
+.progress{
+   height: 40px;
+   font-size: large;
+}
+.progress .progress-bar{
+    padding: 15px 0px;
+}
+.progress .bg-light{
+    color: #2c3e50;
+    background: #fff !important;
+}
+.bmi{
+    text-align: center;
+    padding: 10px;
+    font-size: xxx-large;
+    font-weight: 300;
+}
+.bmi .normal{
+    color: #28a745;
+}
+.bmi .overweight{
+    color: #dc3545;
+}
+.bmi .underweight{
+    color: #007bff;
+}
+.bmi .text{
+    width: 100%;
+    font-size: x-large;
+    padding: 0;
+    margin-top: -20px;
+    z-index: -1;
+}
+
+
+
+
+
+
+
